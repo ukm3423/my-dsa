@@ -17,7 +17,7 @@ public class App {
         list.printLinkedList();
         System.out.println("Size of Linkedlist : " + list.size + "\tHead : " + list.head.data);
 
-        // list.reverse();
+        list.reverse();
         // System.out.print("After Reverse : ");
         // list.printLinkedList();
         // System.out.println("Size of Linkedlist : " + list.size + "\tHead : " +

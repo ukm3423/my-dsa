@@ -51,12 +51,12 @@ public class LinkedListOld {
     public Node searchNode(int key) {
         Node current = head;
 
-        while (current != null) {
-            if (current.data == key) {
-                return current;
-            }
-            current = current.next;
-        }
+        // while (current != null) {
+        //     if (current.data == key) {
+        //         return current;
+        //     }
+        //     current = current.next;
+        // }
         return null;
     }
 
