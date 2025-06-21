@@ -15,7 +15,7 @@ public class Main {
 
         for(int r=2; r<=5; r++){
             for(int s=1; s<r; s++){
-                System.out.print(" ");5
+                System.out.print(" ");
             }
             for(int c=5; c>=r; c--){
                 System.out.print("* ");
